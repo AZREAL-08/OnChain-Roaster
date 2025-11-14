@@ -15,9 +15,14 @@ A decentralized roasting platform built on the Stellar blockchain using Soroban 
 
 ### Testnet Deployment
 
-- **Contract Address**: `[YOUR_CONTRACT_ADDRESS]`
+- **Contract Address**: `CCKUPVYOA2U53ETRFZ3BZYB5PQ7Y5WN7ODZWGFCVE3T2M2SU7UNOPK3U`
 - **Network**: Stellar Testnet
-- **RPC URL**: `https://soroban-testnet.stellar.org`
+- **Wasm Hash**: `5cbe0856f78f69abd4539ac5b9625442b45a45367a351e0c105192c51559248e`
+
+### Explorer Links
+
+- **Contract**: [View on Stellar Expert](https://stellar.expert/explorer/testnet/contract/CCKUPVYOA2U53ETRFZ3BZYB5PQ7Y5WN7ODZWGFCVE3T2M2SU7UNOPK3U)
+- **Deploy Transaction**: [View on Stellar Expert](https://stellar.expert/explorer/testnet/tx/75e1d7238e6aa956a7066c1fcfbace676f20c4aa6694984bea63d997e56cf2fa)
 
 ## 📋 Prerequisites
 
